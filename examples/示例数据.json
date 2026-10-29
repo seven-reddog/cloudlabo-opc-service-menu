@@ -1,0 +1,27 @@
+{
+  "format": "opc-offline-backup",
+  "version": 1,
+  "project": "B02",
+  "data": {
+    "_files": {},
+    "brand": "示例独立创作者",
+    "contact": "请填写自己的联系方式",
+    "terms": "客户提供已确认文案和可用素材；新增需求单独确认。",
+    "items": [
+      {
+        "name": "基础图文包",
+        "price": 800,
+        "days": 3,
+        "revisions": 1,
+        "deliverables": "1张主图＋2张卖点图"
+      },
+      {
+        "name": "标准图文包",
+        "price": 1500,
+        "days": 5,
+        "revisions": 2,
+        "deliverables": "1张主图＋5张卖点图＋源文件"
+      }
+    ]
+  }
+}

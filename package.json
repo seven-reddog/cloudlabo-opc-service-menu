@@ -1,0 +1,18 @@
+{
+  "name": "service-menu",
+  "version": "1.0.2",
+  "description": "整理服务价格、交付内容、周期和修改次数，生成可分享的套餐页。",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/core.test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "offline",
+    "browser",
+    "local-first",
+    "skill"
+  ]
+}
